@@ -1,1 +1,0 @@
-import{j as r}from"./index-CATiC4f0.js";import{T as s,a as t}from"./TreasuryTVL-CMt9eJSB.js";import{T as a}from"./TransactionList-CrTMjrUy.js";import"./moment-1QzQFXpc.js";function n(){return r.jsxs(r.Fragment,{children:[r.jsx(s,{}),r.jsx("div",{className:"mb-8",children:r.jsx(t,{})}),r.jsx(a,{currentPage:1,itemsPerPage:10,filter:"tvl",type:"tvl"})]})}export{n as default};
