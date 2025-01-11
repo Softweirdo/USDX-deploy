@@ -1,0 +1,1 @@
+import{j as t}from"./index-FnDV1jai.js";import{C as r}from"./ChartsGrid-BInxNkj0.js";import{T as a}from"./TransactionList-DlfXyIC6.js";import"./moment-D0G4cm5A.js";function l(){return t.jsxs("div",{className:"space-y-8",children:[t.jsx(r,{type:"alt",filterChart:"alt-holding"}),t.jsx(a,{currentPage:1,itemsPerPage:10,filter:"alt-holding",type:"alt"})]})}export{l as default};

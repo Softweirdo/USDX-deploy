@@ -1,0 +1,1 @@
+import{j as r}from"./index-FnDV1jai.js";import{T as s,a as t}from"./TreasuryTVL-BLnPt_PP.js";import{T as a}from"./TransactionList-DlfXyIC6.js";import"./moment-D0G4cm5A.js";function n(){return r.jsxs(r.Fragment,{children:[r.jsx(s,{}),r.jsx("div",{className:"mb-8",children:r.jsx(t,{})}),r.jsx(a,{currentPage:1,itemsPerPage:10,filter:"tvl",type:"tvl"})]})}export{n as default};
