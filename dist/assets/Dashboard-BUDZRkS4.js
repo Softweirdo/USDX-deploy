@@ -1,0 +1,1 @@
+import{j as s}from"./index-CzTMIYai.js";import{T as a,a as r}from"./TreasuryTVL-BUy57UZt.js";import{C as t}from"./ChartsGrid-B67G6Dz7.js";import"./moment-CBX5lTLi.js";function d(){return s.jsxs("div",{className:"space-y-8",children:[s.jsx(a,{type:"dashboard"}),s.jsx("div",{className:"mb-8",children:s.jsx(r,{})}),s.jsx(t,{type:"all"})]})}export{d as default};
