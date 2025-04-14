@@ -1,1 +1,0 @@
-import{j as s}from"./index-MbYplNpb.js";import{C as t}from"./ChartsGrid-D255BakQ.js";import{T as r}from"./TransactionList-CehPd7fC.js";import"./moment-CwkDiTvJ.js";function m(){return s.jsxs("div",{className:"space-y-8",children:[s.jsx(t,{type:"usdx",filterChart:"usdx-stake"}),s.jsx(r,{currentPage:1,itemsPerPage:10,filter:"usdx-stake",type:"usdx-stake"})]})}export{m as default};
